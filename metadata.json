@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniChat - Universal AI Assistant",
+  "description": "A high-performance chatbot powered by Gemini 3 Pro with web search grounding to provide accurate answers to any question, featuring streaming responses and a modern, responsive UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
